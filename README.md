@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**field-d/field-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there, I'm David 👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently a second year student of BA Psychology & Computing at University College Cork. Currently working in Python, SQL, HTML, CSS and the course offers experience in UX Design, Research Methods and much more.
+Recently I've been learning Object Oriented Programming principles as well as diving into unit testing in Python.  
+
+I'm always looking to expand my skill set and learn more about different programming languages, tools, and areas within tech.
+
+I'm especially interesting in Cybersecurity, specficially the intersection of human behaviour and technology. Why people make certain decisions online, how systems can be better designed to protect them, and how technology can stay one step ahead of threats.
+
+I'm looking for opportunities to learn, take on new challenges, and get involved in projects. 
+Feel free to reach out by sending me a message on LinkedIn, or here.
