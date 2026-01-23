@@ -7,7 +7,7 @@ Recently I've been learning Object Oriented Programming principles as well as di
 
 I'm always looking to expand my skill set and learn more about different programming languages, tools, and areas within tech.
 
-I'm especially interesting in Cybersecurity, specficially the intersection of human behaviour and technology. Why people make certain decisions online, how systems can be better designed to protect them, and how technology can stay one step ahead of threats.
+I'm especially interested in Cybersecurity, specficially the intersection of human behaviour and technology. Why people make certain decisions online, how systems can be better designed to protect them, and how technology can stay one step ahead of threats.
 
 I'm looking for opportunities to learn, take on new challenges, and get involved in projects. 
 Feel free to reach out by sending me a message on LinkedIn, or here.
