@@ -1,7 +1,5 @@
 ## Hi there, I'm David 👋
 
-Here are some ideas to get you started:
-
 I'm currently a second year student of BA Psychology & Computing at University College Cork. Currently working in Python, SQL, HTML, CSS and the course offers experience in UX Design, Research Methods and much more.
 Recently I've been learning Object Oriented Programming principles as well as diving into unit testing in Python.  
 
