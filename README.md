@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/field-d](https://github.com/field-d)
 
-- 💬 Ask me about **My course, interests etc**
+- 💬 Ask me about **my course, interests etc**
 
 - 📫 How to reach me **https://www.linkedin.com/in/davidwfield/**
 
